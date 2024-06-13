@@ -1,0 +1,1615 @@
+Deleted all the cached data successfully
+Edge Server Mumbai
+Edge Server London
+Edge Server Sao Paulo
+CDN controller running on port 3001
+reqCounter 1
+Requested Content file css/bootstrap.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 2
+Requested Content file css/style.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 3
+Requested Content file css/responsive.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 4
+Requested Content file css/jquery.mCustomScrollbar.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 5
+Requested Content file css/owl.carousel.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 6
+Requested Content file images/logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 7
+Requested Content file images/search-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 8
+Requested Content file images/left-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 9
+Requested Content file css/owl.theme.default.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 10
+Requested Content file images/icon-1.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 11
+Requested Content file images/right-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 12
+Requested Content file js/jquery.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 13
+Requested Content file js/popper.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+images/left-arrow.png is being served from Mumbai edge server
+Requested File Name: images/left-arrow.png
+Type of requested content: image/png
+fileName images/left-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/owl.carousel.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.carousel.min.css
+Type of requested content: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/bootstrap.min.css is being served from Mumbai edge server
+Requested File Name: css/bootstrap.min.css
+Type of requested content: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/logo.png is being served from Mumbai edge server
+Requested File Name: images/logo.png
+Type of requested content: image/png
+fileName images/logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/responsive.css is being served from Mumbai edge server
+Requested File Name: css/responsive.css
+Type of requested content: text/css
+fileName css/responsive.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/search-icon.png is being served from Mumbai edge server
+Requested File Name: images/search-icon.png
+Type of requested content: image/png
+fileName images/search-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/jquery.mCustomScrollbar.min.css is being served from Mumbai edge server
+Requested File Name: css/jquery.mCustomScrollbar.min.css
+Type of requested content: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/style.css is being served from Mumbai edge server
+Requested File Name: css/style.css
+Type of requested content: text/css
+fileName css/style.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.theme.default.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.theme.default.min.css
+Type of requested content: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+reqCounter 14
+Requested Content file js/jquery-3.0.0.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 15
+Requested Content file js/bootstrap.bundle.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+images/right-arrow.png is being served from London edge server
+Requested File Name: images/right-arrow.png
+Type of requested content: image/png
+fileName images/right-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+js/jquery.min.js is being served from London edge server
+Requested File Name: js/jquery.min.js
+Type of requested content: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/popper.min.js is being served from London edge server
+Requested File Name: js/popper.min.js
+Type of requested content: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+images/icon-1.png is being served from Mumbai edge server
+Requested File Name: images/icon-1.png
+Type of requested content: image/png
+fileName images/icon-1.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 16
+Requested Content file js/plugin.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+js/jquery-3.0.0.min.js is being served from London edge server
+Requested File Name: js/jquery-3.0.0.min.js
+Type of requested content: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/bootstrap.bundle.min.js is being served from London edge server
+Requested File Name: js/bootstrap.bundle.min.js
+Type of requested content: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/plugin.js is being served from London edge server
+Requested File Name: js/plugin.js
+Type of requested content: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+reqCounter 17
+Requested Content file js/jquery.mCustomScrollbar.concat.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 18
+Requested Content file js/custom.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+js/jquery.mCustomScrollbar.concat.min.js is being served from London edge server
+Requested File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of requested content: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+reqCounter 19
+Requested Content file images/icon-2.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+js/custom.js is being served from London edge server
+Requested File Name: js/custom.js
+Type of requested content: application/javascript
+fileName js/custom.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+reqCounter 20
+Requested Content file images/icon-3.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+images/icon-2.png is being served from London edge server
+Requested File Name: images/icon-2.png
+Type of requested content: image/png
+fileName images/icon-2.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 21
+Requested Content file images/icon-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/icon-3.png is being served from London edge server
+Requested File Name: images/icon-3.png
+Type of requested content: image/png
+fileName images/icon-3.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 22
+Requested Content file images/img-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/icon-4.png is being served from Sao Paulo edge server
+Requested File Name: images/icon-4.png
+Type of requested content: image/png
+fileName images/icon-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 23
+Requested Content file images/img-7.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-4.png is being served from Sao Paulo edge server
+Requested File Name: images/img-4.png
+Type of requested content: image/png
+fileName images/img-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 24
+Requested Content file images/quote-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-7.png is being served from Sao Paulo edge server
+Requested File Name: images/img-7.png
+Type of requested content: image/png
+fileName images/img-7.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 25
+Requested Content file images/img-8.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/quote-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/quote-icon.png
+Type of requested content: image/png
+fileName images/quote-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 26
+Requested Content file images/footer-logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-8.png is being served from Sao Paulo edge server
+Requested File Name: images/img-8.png
+Type of requested content: image/png
+fileName images/img-8.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 27
+Requested Content file images/fb-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/footer-logo.png is being served from Sao Paulo edge server
+Requested File Name: images/footer-logo.png
+Type of requested content: image/png
+fileName images/footer-logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 28
+Requested Content file images/twitter-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/fb-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/fb-icon.png
+Type of requested content: image/png
+fileName images/fb-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 29
+Requested Content file images/instagram-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/twitter-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/twitter-icon.png
+Type of requested content: image/png
+fileName images/twitter-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 30
+Requested Content file images/linkedin-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/instagram-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/instagram-icon.png
+Type of requested content: image/png
+fileName images/instagram-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/linkedin-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/linkedin-icon.png
+Type of requested content: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+CDN controller running on port 3001
+reqCounter 1
+Requested Content file css/style.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 2
+Requested Content file css/responsive.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 3
+Requested Content file css/jquery.mCustomScrollbar.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 4
+Requested Content file css/owl.carousel.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 5
+Requested Content file css/owl.theme.default.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 6
+Requested Content file images/logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 7
+Requested Content file images/search-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 8
+Requested Content file images/left-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 9
+Requested Content file images/right-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 10
+Requested Content file images/icon-1.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 11
+Requested Content file js/jquery.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 12
+Requested Content file js/popper.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 13
+Requested Content file js/bootstrap.bundle.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 14
+Requested Content file js/jquery-3.0.0.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 15
+Requested Content file js/plugin.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 16
+Requested Content file js/jquery.mCustomScrollbar.concat.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 17
+Requested Content file js/custom.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 18
+Requested Content file images/icon-2.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 19
+Requested Content file css/bootstrap.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 20
+Requested Content file images/icon-3.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 21
+Requested Content file images/img-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 22
+Requested Content file images/icon-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 23
+Requested Content file images/img-7.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 24
+Requested Content file images/quote-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+css/jquery.mCustomScrollbar.min.css is being served from Mumbai edge server
+Requested File Name: css/jquery.mCustomScrollbar.min.css
+Type of requested content: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.carousel.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.carousel.min.css
+Type of requested content: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/left-arrow.png is being served from Mumbai edge server
+Requested File Name: images/left-arrow.png
+Type of requested content: image/png
+fileName images/left-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/style.css is being served from Mumbai edge server
+Requested File Name: css/style.css
+Type of requested content: text/css
+fileName css/style.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/search-icon.png is being served from Mumbai edge server
+Requested File Name: images/search-icon.png
+Type of requested content: image/png
+fileName images/search-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/responsive.css is being served from Mumbai edge server
+Requested File Name: css/responsive.css
+Type of requested content: text/css
+fileName css/responsive.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.theme.default.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.theme.default.min.css
+Type of requested content: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/logo.png is being served from Mumbai edge server
+Requested File Name: images/logo.png
+Type of requested content: image/png
+fileName images/logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/right-arrow.png is being served from Mumbai edge server
+Requested File Name: images/right-arrow.png
+Type of requested content: image/png
+fileName images/right-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/icon-1.png is being served from Mumbai edge server
+Requested File Name: images/icon-1.png
+Type of requested content: image/png
+fileName images/icon-1.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 25
+Requested Content file images/footer-logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 26
+Requested Content file images/img-8.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+js/jquery.min.js is being served from London edge server
+Requested File Name: js/jquery.min.js
+Type of requested content: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/popper.min.js is being served from London edge server
+Requested File Name: js/popper.min.js
+Type of requested content: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/bootstrap.bundle.min.js is being served from London edge server
+Requested File Name: js/bootstrap.bundle.min.js
+Type of requested content: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/jquery-3.0.0.min.js is being served from London edge server
+Requested File Name: js/jquery-3.0.0.min.js
+Type of requested content: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/plugin.js is being served from London edge server
+Requested File Name: js/plugin.js
+Type of requested content: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/jquery.mCustomScrollbar.concat.min.js is being served from London edge server
+Requested File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of requested content: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/custom.js is being served from London edge server
+Requested File Name: js/custom.js
+Type of requested content: application/javascript
+fileName js/custom.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+images/icon-2.png is being served from London edge server
+Requested File Name: images/icon-2.png
+Type of requested content: image/png
+fileName images/icon-2.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/bootstrap.min.css is being served from London edge server
+Requested File Name: css/bootstrap.min.css
+Type of requested content: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/icon-3.png is being served from London edge server
+Requested File Name: images/icon-3.png
+Type of requested content: image/png
+fileName images/icon-3.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 27
+Requested Content file images/fb-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-4.png is being served from Sao Paulo edge server
+Requested File Name: images/img-4.png
+Type of requested content: image/png
+fileName images/img-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/icon-4.png is being served from Sao Paulo edge server
+Requested File Name: images/icon-4.png
+Type of requested content: image/png
+fileName images/icon-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/img-7.png is being served from Sao Paulo edge server
+Requested File Name: images/img-7.png
+Type of requested content: image/png
+fileName images/img-7.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/quote-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/quote-icon.png
+Type of requested content: image/png
+fileName images/quote-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/footer-logo.png is being served from Sao Paulo edge server
+Requested File Name: images/footer-logo.png
+Type of requested content: image/png
+fileName images/footer-logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/img-8.png is being served from Sao Paulo edge server
+Requested File Name: images/img-8.png
+Type of requested content: image/png
+fileName images/img-8.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/fb-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/fb-icon.png
+Type of requested content: image/png
+fileName images/fb-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 28
+Requested Content file images/twitter-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 29
+Requested Content file images/instagram-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/twitter-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/twitter-icon.png
+Type of requested content: image/png
+fileName images/twitter-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 30
+Requested Content file images/linkedin-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/instagram-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/instagram-icon.png
+Type of requested content: image/png
+fileName images/instagram-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/linkedin-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/linkedin-icon.png
+Type of requested content: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+CDN controller running on port 3001
+reqCounter 1
+Requested Content file css/style.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 2
+Requested Content file css/responsive.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 3
+Requested Content file css/jquery.mCustomScrollbar.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 4
+Requested Content file css/owl.carousel.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 5
+Requested Content file css/owl.theme.default.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 6
+Requested Content file images/logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 7
+Requested Content file images/search-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 8
+Requested Content file images/left-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 9
+Requested Content file images/right-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 10
+Requested Content file images/icon-1.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 11
+Requested Content file js/jquery.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 12
+Requested Content file js/popper.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 13
+Requested Content file css/bootstrap.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 14
+Requested Content file js/bootstrap.bundle.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 15
+Requested Content file js/plugin.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 16
+Requested Content file js/jquery-3.0.0.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 17
+Requested Content file js/jquery.mCustomScrollbar.concat.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+css/style.css is being served from Mumbai edge server
+Requested File Name: css/style.css
+Type of requested content: text/css
+fileName css/style.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/responsive.css is being served from Mumbai edge server
+Requested File Name: css/responsive.css
+Type of requested content: text/css
+fileName css/responsive.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/jquery.mCustomScrollbar.min.css is being served from Mumbai edge server
+Requested File Name: css/jquery.mCustomScrollbar.min.css
+Type of requested content: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+reqCounter 18
+Requested Content file js/custom.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+images/left-arrow.png is being served from Mumbai edge server
+Requested File Name: images/left-arrow.png
+Type of requested content: image/png
+fileName images/left-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/right-arrow.png is being served from Mumbai edge server
+Requested File Name: images/right-arrow.png
+Type of requested content: image/png
+fileName images/right-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/icon-1.png is being served from Mumbai edge server
+Requested File Name: images/icon-1.png
+Type of requested content: image/png
+fileName images/icon-1.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+js/jquery.min.js is being served from London edge server
+Requested File Name: js/jquery.min.js
+Type of requested content: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/popper.min.js is being served from London edge server
+Requested File Name: js/popper.min.js
+Type of requested content: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+css/bootstrap.min.css is being served from London edge server
+Requested File Name: css/bootstrap.min.css
+Type of requested content: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.carousel.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.carousel.min.css
+Type of requested content: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/logo.png is being served from Mumbai edge server
+Requested File Name: images/logo.png
+Type of requested content: image/png
+fileName images/logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/search-icon.png is being served from Mumbai edge server
+Requested File Name: images/search-icon.png
+Type of requested content: image/png
+fileName images/search-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+css/owl.theme.default.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.theme.default.min.css
+Type of requested content: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+reqCounter 19
+Requested Content file images/icon-2.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+js/bootstrap.bundle.min.js is being served from London edge server
+Requested File Name: js/bootstrap.bundle.min.js
+Type of requested content: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/plugin.js is being served from London edge server
+Requested File Name: js/plugin.js
+Type of requested content: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/jquery-3.0.0.min.js is being served from London edge server
+Requested File Name: js/jquery-3.0.0.min.js
+Type of requested content: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/jquery.mCustomScrollbar.concat.min.js is being served from London edge server
+Requested File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of requested content: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/custom.js is being served from London edge server
+Requested File Name: js/custom.js
+Type of requested content: application/javascript
+fileName js/custom.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+images/icon-2.png is being served from London edge server
+Requested File Name: images/icon-2.png
+Type of requested content: image/png
+fileName images/icon-2.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 20
+Requested Content file images/icon-3.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 21
+Requested Content file images/icon-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/icon-3.png is being served from London edge server
+Requested File Name: images/icon-3.png
+Type of requested content: image/png
+fileName images/icon-3.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 22
+Requested Content file images/img-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/icon-4.png is being served from Sao Paulo edge server
+Requested File Name: images/icon-4.png
+Type of requested content: image/png
+fileName images/icon-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 23
+Requested Content file images/img-7.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-4.png is being served from Sao Paulo edge server
+Requested File Name: images/img-4.png
+Type of requested content: image/png
+fileName images/img-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 24
+Requested Content file images/quote-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-7.png is being served from Sao Paulo edge server
+Requested File Name: images/img-7.png
+Type of requested content: image/png
+fileName images/img-7.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 25
+Requested Content file images/img-8.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/quote-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/quote-icon.png
+Type of requested content: image/png
+fileName images/quote-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 26
+Requested Content file images/footer-logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-8.png is being served from Sao Paulo edge server
+Requested File Name: images/img-8.png
+Type of requested content: image/png
+fileName images/img-8.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 27
+Requested Content file images/fb-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/footer-logo.png is being served from Sao Paulo edge server
+Requested File Name: images/footer-logo.png
+Type of requested content: image/png
+fileName images/footer-logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 28
+Requested Content file images/twitter-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/fb-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/fb-icon.png
+Type of requested content: image/png
+fileName images/fb-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 29
+Requested Content file images/instagram-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/twitter-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/twitter-icon.png
+Type of requested content: image/png
+fileName images/twitter-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 30
+Requested Content file images/linkedin-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/instagram-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/instagram-icon.png
+Type of requested content: image/png
+fileName images/instagram-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/linkedin-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/linkedin-icon.png
+Type of requested content: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+CDN controller running on port 3001
+reqCounter 1
+Requested Content file css/style.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 2
+Requested Content file css/responsive.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 3
+Requested Content file css/jquery.mCustomScrollbar.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 4
+Requested Content file css/owl.carousel.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 5
+Requested Content file css/owl.theme.default.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 6
+Requested Content file js/jquery.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 7
+Requested Content file js/popper.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 8
+Requested Content file js/bootstrap.bundle.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 9
+Requested Content file js/jquery-3.0.0.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 10
+Requested Content file js/plugin.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 11
+Requested Content file css/bootstrap.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 12
+Requested Content file js/jquery.mCustomScrollbar.concat.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 13
+Requested Content file js/custom.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+File is fetched from server since it was not present
+nearestEdge.bucket e1-server
+Requested file is available
+css/responsive.css is being served from Mumbai edge server
+Requested File Name: css/responsive.css
+Type of requested content: text/css
+fileName css/responsive.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/bootstrap.min.css is being served from London edge server
+Requested File Name: css/bootstrap.min.css
+Type of requested content: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+js/jquery.mCustomScrollbar.concat.min.js is being served from London edge server
+Requested File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of requested content: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+css/style.css is being served from Mumbai edge server
+Requested File Name: css/style.css
+Type of requested content: text/css
+fileName css/style.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.theme.default.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.theme.default.min.css
+Type of requested content: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+File is fetched from server since it was not present
+nearestEdge.bucket e1-server
+File is fetched from server since it was not present
+nearestEdge.bucket e1-server
+Requested file is available
+css/owl.carousel.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.carousel.min.css
+Type of requested content: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/jquery.mCustomScrollbar.min.css is being served from Mumbai edge server
+Requested File Name: css/jquery.mCustomScrollbar.min.css
+Type of requested content: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+File is fetched from server since it was not present
+nearestEdge.bucket e1-server
+File is fetched from server since it was not present
+nearestEdge.bucket e1-server
+Requested file is available
+js/custom.js is being served from London edge server
+Requested File Name: js/custom.js
+Type of requested content: application/javascript
+fileName js/custom.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+File downloaded to ../edgeservers/e1-server/js/jquery-3.0.0.min.js
+File downloaded to ../edgeservers/e1-server/js/popper.min.js
+File downloaded to ../edgeservers/e1-server/js/jquery.min.js
+File downloaded to ../edgeservers/e1-server/js/bootstrap.bundle.min.js
+File downloaded to ../edgeservers/e1-server/js/plugin.js
+js/jquery-3.0.0.min.js is being served from Mumbai edge server
+Requested File Name: js/jquery-3.0.0.min.js
+Type of requested content: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+js/plugin.js is being served from Mumbai edge server
+Requested File Name: js/plugin.js
+Type of requested content: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+js/popper.min.js is being served from Mumbai edge server
+Requested File Name: js/popper.min.js
+Type of requested content: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+js/jquery.min.js is being served from Mumbai edge server
+Requested File Name: js/jquery.min.js
+Type of requested content: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+js/bootstrap.bundle.min.js is being served from Mumbai edge server
+Requested File Name: js/bootstrap.bundle.min.js
+Type of requested content: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+CDN controller running on port 3001
+reqCounter 1
+Requested Content file css/bootstrap.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+Requested file is available
+css/bootstrap.min.css is being served from Mumbai edge server
+Requested File Name: css/bootstrap.min.css
+Type of requested content: text/css
+fileName css/bootstrap.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+reqCounter 2
+Requested Content file css/style.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 3
+Requested Content file css/responsive.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 4
+Requested Content file css/jquery.mCustomScrollbar.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 5
+Requested Content file css/owl.carousel.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 6
+Requested Content file css/owl.theme.default.min.css
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 7
+Requested Content file images/logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 8
+Requested Content file images/search-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 9
+Requested Content file images/left-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 10
+Requested Content file images/right-arrow.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoMumbai
+reqCounter 11
+Requested Content file images/icon-1.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 12
+Requested Content file js/jquery.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 13
+Requested Content file js/popper.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 14
+Requested Content file js/bootstrap.bundle.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 15
+Requested Content file js/jquery-3.0.0.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 16
+Requested Content file js/plugin.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 17
+Requested Content file js/jquery.mCustomScrollbar.concat.min.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 18
+Requested Content file js/custom.js
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 19
+Requested Content file images/icon-2.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+reqCounter 20
+Requested Content file images/icon-3.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoLondon
+Requested file is available
+css/style.css is being served from Mumbai edge server
+Requested File Name: css/style.css
+Type of requested content: text/css
+fileName css/style.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+reqCounter 21
+Requested Content file images/img-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 22
+Requested Content file images/icon-4.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+css/responsive.css is being served from Mumbai edge server
+Requested File Name: css/responsive.css
+Type of requested content: text/css
+fileName css/responsive.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+reqCounter 23
+Requested Content file images/img-7.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+css/jquery.mCustomScrollbar.min.css is being served from Mumbai edge server
+Requested File Name: css/jquery.mCustomScrollbar.min.css
+Type of requested content: text/css
+fileName css/jquery.mCustomScrollbar.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.carousel.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.carousel.min.css
+Type of requested content: text/css
+fileName css/owl.carousel.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+css/owl.theme.default.min.css is being served from Mumbai edge server
+Requested File Name: css/owl.theme.default.min.css
+Type of requested content: text/css
+fileName css/owl.theme.default.min.css
+contentType text/css
+res.headers {"Content-Type":"text/css"}
+Requested file is available
+images/logo.png is being served from Mumbai edge server
+Requested File Name: images/logo.png
+Type of requested content: image/png
+fileName images/logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 24
+Requested Content file images/quote-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/left-arrow.png is being served from Mumbai edge server
+Requested File Name: images/left-arrow.png
+Type of requested content: image/png
+fileName images/left-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/right-arrow.png is being served from Mumbai edge server
+Requested File Name: images/right-arrow.png
+Type of requested content: image/png
+fileName images/right-arrow.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/icon-1.png is being served from London edge server
+Requested File Name: images/icon-1.png
+Type of requested content: image/png
+fileName images/icon-1.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+js/jquery.min.js is being served from London edge server
+Requested File Name: js/jquery.min.js
+Type of requested content: application/javascript
+fileName js/jquery.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/popper.min.js is being served from London edge server
+Requested File Name: js/popper.min.js
+Type of requested content: application/javascript
+fileName js/popper.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/bootstrap.bundle.min.js is being served from London edge server
+Requested File Name: js/bootstrap.bundle.min.js
+Type of requested content: application/javascript
+fileName js/bootstrap.bundle.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/jquery-3.0.0.min.js is being served from London edge server
+Requested File Name: js/jquery-3.0.0.min.js
+Type of requested content: application/javascript
+fileName js/jquery-3.0.0.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/plugin.js is being served from London edge server
+Requested File Name: js/plugin.js
+Type of requested content: application/javascript
+fileName js/plugin.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+js/jquery.mCustomScrollbar.concat.min.js is being served from London edge server
+Requested File Name: js/jquery.mCustomScrollbar.concat.min.js
+Type of requested content: application/javascript
+fileName js/jquery.mCustomScrollbar.concat.min.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+images/search-icon.png is being served from Mumbai edge server
+Requested File Name: images/search-icon.png
+Type of requested content: image/png
+fileName images/search-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 25
+Requested Content file images/img-8.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+js/custom.js is being served from London edge server
+Requested File Name: js/custom.js
+Type of requested content: application/javascript
+fileName js/custom.js
+contentType application/javascript
+res.headers {"Content-Type":"application/javascript"}
+Requested file is available
+images/icon-2.png is being served from London edge server
+Requested File Name: images/icon-2.png
+Type of requested content: image/png
+fileName images/icon-2.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/icon-3.png is being served from London edge server
+Requested File Name: images/icon-3.png
+Type of requested content: image/png
+fileName images/icon-3.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/img-4.png is being served from Sao Paulo edge server
+Requested File Name: images/img-4.png
+Type of requested content: image/png
+fileName images/img-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/icon-4.png is being served from Sao Paulo edge server
+Requested File Name: images/icon-4.png
+Type of requested content: image/png
+fileName images/icon-4.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/img-7.png is being served from Sao Paulo edge server
+Requested File Name: images/img-7.png
+Type of requested content: image/png
+fileName images/img-7.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/quote-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/quote-icon.png
+Type of requested content: image/png
+fileName images/quote-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 26
+Requested Content file images/footer-logo.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/img-8.png is being served from Sao Paulo edge server
+Requested File Name: images/img-8.png
+Type of requested content: image/png
+fileName images/img-8.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/footer-logo.png is being served from Sao Paulo edge server
+Requested File Name: images/footer-logo.png
+Type of requested content: image/png
+fileName images/footer-logo.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 27
+Requested Content file images/fb-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+reqCounter 28
+Requested Content file images/twitter-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/fb-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/fb-icon.png
+Type of requested content: image/png
+fileName images/fb-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 29
+Requested Content file images/instagram-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/twitter-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/twitter-icon.png
+Type of requested content: image/png
+fileName images/twitter-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+reqCounter 30
+Requested Content file images/linkedin-icon.png
+IP addess of client: 65.94.7.236
+nearestEdge [object Object]
+Edge Server as per round robin algoSao Paulo
+Requested file is available
+images/instagram-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/instagram-icon.png
+Type of requested content: image/png
+fileName images/instagram-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
+Requested file is available
+images/linkedin-icon.png is being served from Sao Paulo edge server
+Requested File Name: images/linkedin-icon.png
+Type of requested content: image/png
+fileName images/linkedin-icon.png
+contentType image/png
+res.headers {"Content-Type":"image/png"}
