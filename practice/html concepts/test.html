@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewpoint" content="width=device-width initial-scale=1.0">
+        <title>Webpage</title>
+        <style>
+            .city{
+                color: aliceblue;
+                border: 1px solid black;
+                margin: 10px;
+                height: 100px;
+                text-align: center;
+
+            }
+            table, th, td {
+  border: 2px solid rgb(118, 8, 8);
+  
+  
+}
+th, td {
+  padding: 15px;
+}
+table {
+  border-spacing: 5px;
+}
+
+        </style>
+    </head>
+    
+    <body style="background-color: aquamarine;">
+
+        <h1 style="font-weight:bold; font-size:40px; background-color: blueviolet;">Heading 1</h1>
+        <em>This is an emphasized text</em>
+        <p> HTML images are defined with the img tag, and the filename of the image source is specified in the src attribute: </p>
+        <img src="test.avif" width="300" height="200" alt="Landscape images">
+        <p>Learn more about formatting?</p><a href="https://www.w3schools.com/html/html_formatting.asp" target="_blank">Click here for more details</a>
+        <a href="mailto:someone@gmail.com">send email</a>
+        <a href="test.avif"><img src="test.avif" alt="updated landscape" height="200" width="300">Updated photo</a>
+        <h2 id="c4">Chapter 4</h2>
+        <table style="width: 50%; text-align: center;">
+            <tr>
+              <th>Firstname</th>
+              <th>Lastname</th>
+              <th>Age</th>
+            </tr>
+            <tr>
+              <td>Jill</td>
+              <td>Smith</td>
+              <td>50</td>
+            </tr>
+            <tr>
+              <td>Eve</td>
+              <td>Jackson</td>
+              <td>94</td>
+            </tr>
+           </table> 
+        <br />
+
+           <table style="width:100%">
+            <tr>
+              <th>Name</th>
+              <th colspan="2">Telephone</th>
+            </tr>
+            <tr>
+              <td>Bill Gates</td>
+              <td>55577854</td>
+              <td>55577855</td>
+            </tr>
+          </table> 
+        <table style="width:100%">
+  <tr>
+    <th>Name:</th>
+    <td>Bill Gates</td>
+  </tr>
+  <tr>
+    <th rowspan="2">Telephone:</th>
+    <td>55577854</td>
+  </tr>
+  <tr>
+    <td>55577855</td>
+  </tr>
+</table> 
+<br />
+
+<table>
+    
+    <tr>
+        <th>Username</th>
+        <th>Password</th>
+        <th>Contact number</th>
+    </tr>
+    <tr>
+        <td>Pavithra</td>
+        <td>Pavisid</td>
+        <td>5437891344</td>
+    </tr>
+    <caption>Personal Details</caption>
+</table>
+  <br />
+
+  <ul style="list-style-type:circle; ">
+    <li>Chair</li>
+    <li>Table</li>
+    <li>laptop</li>
+  </ul>
+<br />
+<ol type="A">
+    <li>Chair</li>
+    <li>Table</li>
+    <li>laptop</li>
+</ol>
+  
+<dl>
+    <dt>Coffee</dt>
+    <dd>- black hot drink</dd>
+    <dt>Milk</dt>
+    <dd>- white cold drink</dd>
+  </dl> 
+  <a href="#c4">Jump to the Chapter 4 </a>
+  <p>My hair color is <span style="color: red;">Red</span></p>
+  <div style="background-color:black;color:white;padding:20px;">
+    <h2>London</h2>
+    <p>London is the capital city of England. It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  </div> 
+<div class="city" style="background-color: brown;">
+<h2>London</h2>
+<p>London is the capital of England.</p>
+</div>
+<div class="city" style="background-color: blueviolet;">
+<h2>Paris</h2>
+<p>Paris is the capital of France.</p>
+</div>
+<div class="city" style="background-color: chocolate;">
+<h2>Tokyo</h2>
+<p>Tokyo is the capital of Japan.</p>
+</div>
+    </body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* Style the element with the id "myHeader" */
+#myHeader {
+  background-color: rgb(51, 164, 201);
+  color: black;
+  padding: 20px;
+  text-align: center;
+  border: 3px solid black;
+}
+
+/* Style all elements with the class name "city" */
+.city1 {
+  background-color: tomato;
+  color: white;
+  padding: 10px;
+  border: 2px solid black;
+} 
+</style>
+</head>
+<body>
+
+<h2>Difference Between Class and ID</h2>
+<p>A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page:</p>
+
+<!-- An element with a unique id -->
+<h1 id="myHeader">My Cities</h1>
+
+<!-- Multiple elements with same class -->
+<h2 class="city1">London</h2>
+<p>London is the capital of England.</p>
+
+<h2 class="city1">Paris</h2>
+<p>Paris is the capital of France.</p>
+
+<h2 class="city1">Tokyo</h2>
+<p>Tokyo is the capital of Japan.</p>
+<a href="test.html#c4">Jump to Chapter 4 </a>
+
+<p>Try it yourself>></p>
+
+<code>
+    x = 5;
+    y = 6;
+    z = x + y;
+</code> 
+
+<form>
+    <label for="fname">First name:</label><br> <!-- Create a Label first & than a line break -->
+    <input type="text" id="fname" ><br> <!-- Define the input field by referring it to the defined -->
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" >
+  </form>
+
+  <p>Choose your favorite Web language:</p>
+
+<form>
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+</form>
+<br />
+
+<form>
+    <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+    <label for="vehicle1"> I have a bike</label><br>
+    <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+    <label for="vehicle2"> I have a car</label><br>
+    <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+    <label for="vehicle3"> I have a boat</label>
+  </form>
+  
+  <form action="/action_page.php" autocomplete="on" novalidate>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname" value="Doe"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<label for="cars">Choose a car:</label>
+<select id="cars" name="cars" size="4" multiple>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+</select>
+<br />
+<hr>
+<textarea name="message" rows="10" cols="30">
+    The cat was playing in the garden.
+    </textarea>
+
+    <form>
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username"><br>
+        <label for="pwd">Password:</label><br>
+        <input type="password" id="pwd" name="pwd">
+      </form>
+
+      <form>
+        <label for="birthday">Birthday:</label>
+        <input type="date" id="birthday" name="birthday">
+      </form>
+
+      <form>
+        <label for="email">Enter your email:</label>
+        <input type="email" id="email" name="email">
+      </form>
+
+      <form>
+        <label for="phone">Enter a phone number:</label>
+        <input type="tel" id="phone" name="phone"
+        placeholder="123-45-678">
+      </form>
+
+      <iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=hddqkYK5eMQ">
+</iframe>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <style>
+      .containers{
+        display: flex;
+        gap: 8px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class = "containers">
+      <div>
+        <p>Now that the images are labelled on Encord, the next step is to export a JSON file containing the labels. Previously, this JSON file was converted into a text file through a script for further processing.</p>
+      </div>
+      <div>
+        <h1>Just Checking</h1>
+      </div>
+      <div>
+        <p>I will work on a method to directly convert labelled data from Encord into a text file, bypassing the initial JSON export step. This should streamline our process and reduce the need for multiple conversion scripts.</p>
+      </div>
+
+    </div>
+  </body>
+
+</html>
