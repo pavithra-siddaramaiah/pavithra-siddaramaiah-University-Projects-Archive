@@ -1,12 +1,15 @@
 import React from 'react'
 import "./About.css"
+import Header from '../Header/Header'
 
 const About = () => {
   return (
     <div>
         <div className='section-container'>
-        <h1>About Me</h1>
-        <p>Full Stack Engineer | Blogger</p>
+        <Header
+        heading="About Me"
+        subHeading="Full Stack Engineer | Blogger" />
+       
         </div>
       
       <div className='about-main'>
