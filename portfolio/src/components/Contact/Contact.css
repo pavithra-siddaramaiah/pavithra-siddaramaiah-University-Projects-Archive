@@ -1,7 +1,11 @@
+.section-container{
+    align-items: center;
+}
 .contact-form-container{
     width: 50%;
-    margin: 70px 0px;
-    align-self: center
+    margin-left: 300px;
+    margin-top: 100px;
+    align-items: center;
 }
 .contact-form{
     display: flex;
@@ -21,6 +25,7 @@
     font-family: Roboto;
     font-size: 14px;
     line-height: 16px;
+   
 }
 .body-input {
     height: 250px;

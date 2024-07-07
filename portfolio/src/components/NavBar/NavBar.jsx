@@ -19,8 +19,8 @@ const NavBar = () => {
     return (
         <Menu 
             isOpen={menuOpen}
-            onStateChange={(state) => handleStateChange(state)}
-        >
+            onStateChange={(state) => handleStateChange(state)} >
+        
             <Link to='/' onClick={closeMenu}
                 className={`menu-item ${path === '/' ? 'active-item' : ''}`}>
                 Home
