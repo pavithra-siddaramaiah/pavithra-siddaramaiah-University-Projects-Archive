@@ -1,6 +1,7 @@
-.section-container {
-    text-align: center;
-}
+
+
+
+
 .about-main{
     display: flex;
     flex-direction: row;
@@ -19,7 +20,9 @@
     flex-direction: column;
     justify-content: center;
 }
-
+.about-link{
+    color: #000;
+}
 .about-sub-heading{
     margin: 0;
 }
